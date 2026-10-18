@@ -4,8 +4,8 @@
   <table align="center">
     <tr>
       <td align="center"><b>PCB Layout Views</b></td>
-      <td align="center"><b>OpenFIRE Wiring Diagram</b></td>
       <td align="center"><b>Camera Pin Labels</b></td>
+      <td align="center"><b>OpenFIRE Wiring Diagram</b></td>
     </tr>
     <tr>
       <td align="center" valign="middle">
