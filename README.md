@@ -42,6 +42,7 @@ This hardware design is an evolutionary community effort built upon the foundati
 ## 🚀 Key Features of This Variant
 
 * **Beginner-Friendly Through-Hole Resistors:** Uses through-hole **1/4 Watt axial resistors** for easy hand-soldering and a slim profile.
+* **Official Hardware Guide Aligned:** The trace layout is designed directly from the "DIY Wiimote Conversion (Using Clock Pin)" schematic on **page 4** of the official **[OpenFIRE-Hardware-Guide_1.3.pdf](https://openfirelightgun.org)** manual.
 * **Optional 5-Pin JST PH 2.0 Connector:** Features an elongated breakout footprint where the physical JST socket is outside the barrell shell.
 * **Zero Onboard Crystal Needed:** Relies on OpenFIRE's native pin-generated clock (`CLK`), omitting external oscillators.
 * **Direct 3.3V Power Line:** Streamlined 3.3V power path supplied directly by a Raspberry Pi Pico.
