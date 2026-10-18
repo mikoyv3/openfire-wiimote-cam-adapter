@@ -36,7 +36,7 @@ This hardware design is an evolutionary community effort built upon the foundati
 
 ## 🚀 Key Features of This Variant
 
-* **Beginner-Friendly Through-Hole Resistors:** Designed specifically to fit standard **through-hole 1/8 Watt axial resistors** instead of tiny, frustrating SMD footprints. This makes hand-soldering incredibly easy for DIY makers.
+* **Beginner-Friendly Through-Hole Resistors:** Designed specifically to fit standard **through-hole 1/4 Watt axial resistors** instead of tiny SMD footprints. This makes hand-soldering incredibly easy for DIY makers.
 * **Optional 5-Pin JST Connector:** Features an elongated breakout footprint with an integrated JST connector layout. Populating the physical JST socket is completely optional; if you are squeezing the board into an extremely tight shell, you can bypass the connector entirely and solder hookup wire directly to the exposed through-hole pads.
 * **Zero Onboard Crystal Needed:** Takes advantage of OpenFIRE's native pin-generated clock signal (`CLK`), completely eliminating the bulky external crystal oscillator and its tuning capacitors.
 * **Direct 3.3V Power Line:** Designed around a streamlined 3.3V input power path setup directly supplied by your main OpenFIRE controller hub.
@@ -70,8 +70,8 @@ The printable files are managed in [@slikvik55's Lightgun3DParts Repository](htt
 
 ### Bill of Materials (BOM)
 * **U1:** Salvaged Nintendo Wiimote IR Camera Sensor
-* **R1:** 4.7kΩ Through-Hole Resistor (**1/8 Watt / Axial**)
-* **R2:** 4.7kΩ Through-Hole Resistor (**1/8 Watt / Axial**)
+* **R1:** 4.7kΩ Through-Hole Resistor (**1/4 Watt / Axial**)
+* **R2:** 4.7kΩ Through-Hole Resistor (**1/4 Watt / Axial**)
 * **J1 (Optional):** 5-pin JST Connector (GND, CLK, SDA, SCL, VCC)
 
 ## 📌 Wiring Diagram Alignment
