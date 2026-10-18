@@ -64,7 +64,7 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 ## 🛠 Ordering & Assembly Instructions
 
 ### PCB Ordering Specifications
-⚠️ **CRITICAL FABRICATION NOTE:** When ordering from fabricators like **JLCPCB (Preferred)**, PCBWay, or OSH Park, you **MUST specify a PCB Thickness of 0.8mm**, standard 1.6mm thickness boards are too thick; the camera's rear header pins will not pass completely through the board to reach the solder pads!
+⚠️ **CRITICAL FABRICATION NOTE:** When ordering from fabricators like **JLCPCB (Preferred)**, PCBWay, or OSH Park, you **MUST specify a PCB Thickness of 0.8mm**, standard 1.6mm thickness boards are too thick; the camera's rear header pins will not pass completely through the Jig and Barrel!
 
 * **Layers:** 2-layer
 * **Thickness:** 0.8 mm (Do not use standard 1.6mm!)
