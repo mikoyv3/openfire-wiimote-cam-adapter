@@ -44,7 +44,7 @@ This hardware design is an evolutionary community effort built upon the foundati
 * **Beginner-Friendly Through-Hole Resistors:** Uses through-hole **1/4 Watt axial resistors** for easy hand-soldering and a slim profile.
 * **Optional 5-Pin JST PH 2.0 Connector:** Features an elongated breakout footprint where the physical JST socket is outside the barrell shell.
 * **Zero Onboard Crystal Needed:** Relies on OpenFIRE's native pin-generated clock (`CLK`), omitting external oscillators.
-* **Direct 3.3V Power Line:** Streamlined 3.3V power path supplied directly by a Raspberry Pi PICO.
+* **Direct 3.3V Power Line:** Streamlined 3.3V power path supplied directly by a Raspberry Pi Pico.
 
 ---
 
