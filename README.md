@@ -78,11 +78,11 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 
 ## 📌 Wiring Diagram Alignment
 Ensure your microcontroller pinouts map directly to the corresponding board output lines:
-* **GND:** Connect to `GND`
-* **CLK:** Connect to your configured Clock generation pin (e.g., `GP22`)
-* **SDA:** Connect I2C SDA (e.g., `GP20`)
-* **SCL:** Connect I2C SCL (e.g., `GP21`)
-* **VCC:** Connect to `3V3 OUT`
+* **GND:** Connect PCB GND to Raspberry Pi Pico 'GND'
+* **CLK:** Connect PCB CLK to Raspberry Pi Pico 'GP22'
+* **SDA:** Connect PCB SDA to Raspberry Pi Pico 'GP20'
+* **SCL:** Connect PCB SCL to Raspberry Pi Pico 'GP21'
+* **VCC:** Connect PCB VCC to Raspberry Pi Pico '3V3 OUT'
 ---
 
 ## 📜 License
