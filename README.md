@@ -39,7 +39,7 @@ This hardware design is an evolutionary community effort built upon the foundati
 * **Beginner-Friendly Through-Hole Resistors:** Designed specifically to fit standard **through-hole 1/4 Watt axial resistors** instead of tiny SMD footprints. This makes hand-soldering incredibly easy for DIY makers.
 * **Optional 5-Pin JST Connector:** Features an elongated breakout footprint with an integrated JST connector layout. Populating the physical JST socket is completely optional; if you are squeezing the board into an extremely tight shell, you can bypass the connector entirely and solder hookup wire directly to the exposed through-hole pads.
 * **Zero Onboard Crystal Needed:** Takes advantage of OpenFIRE's native pin-generated clock signal (`CLK`), completely eliminating the bulky external crystal oscillator and its tuning capacitors.
-* **Direct 3.3V Power Line:** Designed around a streamlined 3.3V input power path setup directly supplied by your main OpenFIRE controller hub.
+* **Direct 3.3V Power Line:** Designed around a streamlined 3.3V input power path setup directly supplied by a Raspberry Pi PICO.
 
 ---
 
