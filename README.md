@@ -36,33 +36,30 @@ This hardware design is an evolutionary community effort built upon the foundati
 
 ## 🚀 Key Features of This Variant
 
-* **Beginner-Friendly Through-Hole Resistors:** Designed specifically to fit standard **through-hole 1/4 Watt axial resistors** instead of tiny SMD footprints. This makes hand-soldering incredibly easy for DIY makers.
-* **Optional 5-Pin JST Connector:** Features an elongated breakout footprint with an integrated JST connector layout. Populating the physical JST socket is completely optional; if you are squeezing the board into an extremely tight shell, you can bypass the connector entirely and solder hookup wire directly to the exposed through-hole pads.
-* **Zero Onboard Crystal Needed:** Takes advantage of OpenFIRE's native pin-generated clock signal (`CLK`), completely eliminating the bulky external crystal oscillator and its tuning capacitors.
-* **Direct 3.3V Power Line:** Designed around a streamlined 3.3V input power path setup directly supplied by a Raspberry Pi PICO.
+* **Beginner-Friendly Through-Hole Resistors:** Uses through-hole **1/8 Watt axial resistors** for easy hand-soldering and a slim profile.
+* **Optional 5-Pin JST Connector:** Features an elongated breakout footprint where the physical JST socket is optional for tight shell fits.
+* **Zero Onboard Crystal Needed:** Relies on OpenFIRE's native pin-generated clock (`CLK`), omitting external oscillators.
+* **Direct 3.3V Power Line:** Streamlined 3.3V power path supplied directly by a Raspberry Pi PICO.
 
 ---
 
 ## 📐 3D Shell Compatibility & Enclosure Notes
 
-This PCB layout is specifically tailored to fit **RetroMidget's Wiimote Camera Enclosure**. 
-
-### Required 3D Assets:
-The printable files are managed in [@slikvik55's Lightgun3DParts Repository](https://github.com/slikvik55/Lightgun3DParts/tree/main/WiiCamEnclosure). Download the individual components here:
+Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slikvik55's Lightgun3DParts Repository](https://github.com/slikvik55/Lightgun3DParts/tree/main/WiiCamEnclosure):
 * 📥 **Main Shell:** [WiiCamEnclosure Barrel STL](https://github.com)
 * 📥 **Internal Mount:** [Camera Holder STL](https://github.com)
 * 📥 **Assembly Tool:** [Soldering Alignment Jig STL](https://github.com)
 
-### Assembly Tips:
-* **Soldering Assist:** It can be tedious to align the salvaged camera sensor pins manually. It is highly recommended to print the [Soldering Jig](https://github.com) ahead of time to hold the alignment perfectly flush while bonding it to the PCB pads.
-* **JST Alignment:** The board's output section is extended so that the optional JST connector socket can neatly pass through the rear opening of the enclosure barrel.
+### Assembly & Soldering Tips:
+* **Flux Recommendation:** Use high-quality flux like **Chip Quik SMD291** when soldering the Wii IR camera onto the PCB.
+* **Soldering Assist:** Print and use the [Soldering Jig](https://github.com) to maintain flush alignment.
 
 ---
 
 ## 🛠 Ordering & Assembly Instructions
 
 ### PCB Ordering Specifications
-⚠️ **CRITICAL FABRICATION NOTE:** When ordering from fabricators like **JLCPCB (Preferred)**, PCBWay, or OSH Park, you **MUST specify a PCB Thickness of 0.8mm**. Standard 1.6mm thickness boards are too thick; the camera's rear header pins will not pass completely through the board to reach the solder pads!
+⚠️ **CRITICAL FABRICATION NOTE:** When ordering from fabricators like **JLCPCB (Preferred)**, PCBWay, or OSH Park, you **MUST specify a PCB Thickness of 0.8mm**, standard 1.6mm thickness boards are too thick; the camera's rear header pins will not pass completely through the board to reach the solder pads!
 
 * **Layers:** 2-layer
 * **Thickness:** 0.8 mm (Do not use standard 1.6mm!)
