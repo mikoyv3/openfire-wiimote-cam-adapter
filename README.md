@@ -5,6 +5,7 @@
     <tr>
       <td align="center"><b>PCB Layout Views</b></td>
       <td align="center"><b>OpenFIRE Wiring Diagram</b></td>
+      <td align="center"><b>Camera Pin Labels</b></td>
     </tr>
     <tr>
       <td align="center" valign="middle">
@@ -15,9 +16,13 @@
       <td align="center" valign="middle">
         <img src="pics/openfire_pico_wii_ir_wiring.png" width="310" alt="OpenFIRE Raspberry Pi Pico Wiimote IR Wiring Diagram">
       </td>
+      <td align="center" valign="middle">
+        <img src="pics/Wiimote_IR_Camera_Back_-_tab_on_top_with_labels.png" width="280" alt="Wiimote IR Camera Back View Tab On Top With Pin Labels">
+      </td>
     </tr>
   </table>
 </p>
+
 
 
 
