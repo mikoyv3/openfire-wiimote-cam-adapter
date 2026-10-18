@@ -77,12 +77,21 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 * **JST (Optional):** 5-pin JST PH 2.0 Connector (GND, CLK, SDA, SCL, VCC)
 
 ## 📌 Wiring Diagram Alignment
-Ensure your microcontroller pinouts map directly to the corresponding board output lines:
-* **GND:** Connect PCB GND to Raspberry Pi Pico 'GND'
-* **CLK:** Connect PCB CLK to Raspberry Pi Pico 'GP22'
-* **SDA:** Connect PCB SDA to Raspberry Pi Pico 'GP20'
-* **SCL:** Connect PCB SCL to Raspberry Pi Pico 'GP21'
-* **VCC:** Connect PCB VCC to Raspberry Pi Pico '3V3 OUT'
+
+Ensure your microcontroller pinouts map directly to the corresponding board output lines. While you can configure your own pinouts in firmware, here is the recommended standard layout:
+
+## 📌 Wiring Diagram Alignment
+
+Ensure your microcontroller pinouts map directly to the corresponding board output lines. To follow the physical board layout sequence, wire your connections in this exact order:
+
+* **GND:** Connect board **GND** ➔ Raspberry Pi Pico **GND** (Any ground pin)
+* **CLK:** Connect board **CLK** ➔ Raspberry Pi Pico **GP22**
+  *(💡 Note: GP22 is the suggested default clock pin. You must manually verify and save this pin selection inside the OpenFIRE application).*
+* **SDA:** Connect board **SDA** ➔ Raspberry Pi Pico **GP20**
+* **SCL:** Connect board **SCL** ➔ Raspberry Pi Pico **GP21**
+* **VCC:** Connect board **VCC** ➔ Raspberry Pi Pico **3V3 OUT**
+
+
 ---
 
 ## 📜 License
