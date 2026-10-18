@@ -82,10 +82,6 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 
 Ensure Raspberry Pi Pico pinouts map directly to the corresponding board output lines. While you can configure your own pinouts in firmware, here is the recommended standard layout:
 
-## 📌 Wiring Diagram Alignment
-
-Ensure your microcontroller pinouts map directly to the corresponding board output lines. To follow the physical board layout sequence, wire your connections in this exact order:
-
 * **GND:** Connect board **GND** ➔ Raspberry Pi Pico **GND** (Any ground pin)
 * **CLK:** Connect board **CLK** ➔ Raspberry Pi Pico **GP22**
   *(💡 Note: GP22 is the suggested pin-out. Clock pin will need to be set in the OpenFIRE application).*
