@@ -86,7 +86,7 @@ Ensure your microcontroller pinouts map directly to the corresponding board outp
 
 * **GND:** Connect board **GND** ➔ Raspberry Pi Pico **GND** (Any ground pin)
 * **CLK:** Connect board **CLK** ➔ Raspberry Pi Pico **GP22**
-  *(💡 Note: GP22 is the suggested default clock pin. You must manually verify and save this pin selection inside the OpenFIRE application).*
+  *(💡 Note: GP22 is the suggested default clock pin. Clock pin will need to be set in the OpenFIRE application).*
 * **SDA:** Connect board **SDA** ➔ Raspberry Pi Pico **GP20**
 * **SCL:** Connect board **SCL** ➔ Raspberry Pi Pico **GP21**
 * **VCC:** Connect board **VCC** ➔ Raspberry Pi Pico **3V3 OUT**
