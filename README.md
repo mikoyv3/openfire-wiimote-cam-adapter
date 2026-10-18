@@ -69,7 +69,7 @@ The printable files are managed in [@slikvik55's Lightgun3DParts Repository](htt
 * **Surface Finish:** HASL Lead-Free or ENIG (Recommended)
 
 ### Bill of Materials (BOM)
-* **U1:** Salvaged Nintendo Wiimote PixArt IR Camera Sensor
+* **U1:** Salvaged Nintendo Wiimote IR Camera Sensor
 * **R1:** 4.7kΩ Through-Hole Resistor (**1/8 Watt / Axial**)
 * **R2:** 4.7kΩ Through-Hole Resistor (**1/8 Watt / Axial**)
 * **J1 (Optional):** 5-pin JST Connector (GND, CLK, SDA, SCL, VCC)
