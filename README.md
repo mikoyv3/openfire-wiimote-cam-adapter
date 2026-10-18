@@ -72,7 +72,7 @@ The printable files are managed in [@slikvik55's Lightgun3DParts Repository](htt
 * **U1:** Salvaged Nintendo Wiimote IR Camera Sensor
 * **R1:** 4.7kΩ Through-Hole Resistor (**1/4 Watt / Axial**)
 * **R2:** 4.7kΩ Through-Hole Resistor (**1/4 Watt / Axial**)
-* **JST (Optional):** 5-pin JST Connector (GND, CLK, SDA, SCL, VCC)
+* **JST (Optional):** 5-pin JST PH 2.0 Connector (GND, CLK, SDA, SCL, VCC)
 
 ## 📌 Wiring Diagram Alignment
 Ensure your microcontroller pinouts map directly to the corresponding board output lines:
