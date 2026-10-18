@@ -1,13 +1,18 @@
 # OpenFIRE DIY Wiimote IR Camera I2C Adapter
 
-An open-source, ultra-compact breakout board to interface a salvaged **Nintendo Wiimote PixArt IR Camera** over I2C for DIY lightgun setups running the [TeamOpenFIRE Project](https://github.com/TeamOpenFIRE) firmware ecosystem.
+<img src="pics/front_pcb.png" width="300" alt="OpenFIRE Wiimote Camera PCB Front View">
+<img src="pics/back_pcb.png" width="300" alt="OpenFIRE Wiimote Camera PCB Back View">
+
+⚠️ **PRELIMINARY DESIGN NOTICE**
+This PCB design has just been created and recently ordered with **JLCPCB**. It has **not yet been physically tested** or hand-assembled. However, the circuit topology is exceptionally simple and directly follows verified OpenFIRE community documentation, so it is highly anticipated to work without issues. Build at your own discretion while physical validation is underway!
 
 ---
 
 ## 🎗️ Credits & Attribution
 This hardware design is an evolutionary community effort built upon the foundations laid by local open-source creators:
 * **Circuit Architecture:** Derived from and heavily based on the open-source layout by **[@eatnooM](https://github.com/eatnooM)** ([eatnooM/pixart-sensor-adapter](https://github.com/eatnooM/pixart-sensor-adapter)).
-* **3D Enclosure Development:** Enclosure integrations, printing assets, and specialized soldering aids are hosted, maintained, and credited to **[@slikvik55](https://github.com/slikvik55)** ([slikvik55/Lightgun3DParts](https://github.com/slikvik55/Lightgun3DParts)).
+* **3D Enclosure Development:** Enclosure integrations, printing assets, and specialized repository files are hosted, maintained, and credited to **[@slikvik55](https://github.com/slikvik55)** ([slikvik55/Lightgun3DParts](https://github.com/slikvik55/Lightgun3DParts)).
+* **Assembly Tools:** Special thanks to **Gzus348** for creating the original camera jig design that makes sensor alignment straightforward.
 
 ---
 
