@@ -48,11 +48,11 @@ This hardware design is an evolutionary community effort built upon the foundati
 Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slikvik55's Lightgun3DParts Repository](https://github.com/slikvik55/Lightgun3DParts/tree/main/WiiCamEnclosure):
 * 📥 **Main Shell:** [WiiCamEnclosure Barrel STL](https://github.com/slikvik55/Lightgun3DParts/blob/main/WiiCamEnclosure/Barrel.stl)
 * 📥 **Internal Mount:** [Camera Holder STL](https://github.com/slikvik55/Lightgun3DParts/blob/main/WiiCamEnclosure/CamHolder.stl)
-* 📥 **Assembly Tool:** [Soldering Alignment Jig STL](https://github.com/slikvik55/Lightgun3DParts/blob/main/WiiCamEnclosure/Jig.stl)
+* 📥 **Assembly Tool:** [Soldering Alignment Jig STL from **Gzus348**](https://github.com/eatnooM/pixart-sensor-adapter/blob/main/inline/printables/Wii-IR-camera-solder-guideGun4IR-v7.stl)
 
 ### Assembly & Soldering Tips:
 * **Flux Recommendation:** Use high-quality flux like **Chip Quik SMD291** when soldering the Wii IR camera onto the PCB.
-* **Soldering Assist:** Print and use the [Soldering Alignment Jig](https://github.com/slikvik55/Lightgun3DParts/blob/main/WiiCamEnclosure/Jig.stl) to maintain flush alignment.
+* **Soldering Assist:** Print and use the [Soldering Alignment Jig](https://github.com/eatnooM/pixart-sensor-adapter/blob/main/inline/printables/Wii-IR-camera-solder-guideGun4IR-v7.stl) to maintain flush alignment.
 
 ---
 
