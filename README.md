@@ -11,7 +11,7 @@
       <td align="center" valign="middle">
         <img src="pics/front_pcb.png" width="280" alt="OpenFIRE Wiimote Camera PCB Front View">
         <br><br>
-        <img src="pics/back_pcb.png" width="280" alt="OpenFIRE Wiimote Camera PCB Back View">
+        <img src="pics/back_pcb.png" width="280" alt="OpenFIRE Wiimote Camera PCB Back View"> 
       </td>
       <td align="center" valign="middle">
         <img src="pics/Wiimote_IR_Camera_Back_-_tab_on_top_with_labels.png" width="280" alt="Wiimote IR Camera Back View Tab On Top With Pin Labels">
