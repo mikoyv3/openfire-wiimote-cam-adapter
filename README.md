@@ -25,12 +25,19 @@
   </table>
 </p>
 
+## ⚠️ PRELIMINARY DESIGN NOTICE
+This PCB design has just been created and recently ordered with JLCPCB. It has not yet been physically tested or hand-assembled. However, the circuit topology is exceptionally simple and directly follows verified OpenFIRE community documentation, so it is highly anticipated to work without issues. Build at your own discretion while physical validation is underway!
+
+## 📦 What's Included
+This release contains **two untested variant versions** of the board layout:
+
+* **JST PH 2.0 Variant:** Utilizes a standard JST PH 2.0mm connector layout and uses **1/4 watt resistors**.
+* **JST MX 1.25 Variant (Compact):** Redesigned down to match **eatnooM's** compact PCB footprint size. This specific variant switches the connector layout to a JST MX 1.25mm format and uses **1/8 watt resistors**.
+
+## 🛠️ Assets
+Download the corresponding Gerber zip files below depending on your preferred connector type and size layout constraint.
 
 
-
-
-⚠️ **PRELIMINARY DESIGN NOTICE**
-This PCB design has just been created and recently ordered with **JLCPCB**. It has **not yet been physically tested** or hand-assembled. However, the circuit topology is exceptionally simple and directly follows verified OpenFIRE community documentation, so it is highly anticipated to work without issues. Build at your own discretion while physical validation is underway!
 
 ---
 
