@@ -92,8 +92,8 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 
 * **Layers:** 2-layer
 * **Thickness:** 0.8 mm (Do not use standard 1.6mm!)
-* **Surface Finish:** HASL Lead-Free or ENIG (Recommended)
-
+* **Surface Finish:** HASL Lead-Free
+  
 ### Bill of Materials (BOM)
 * **U1:** Salvaged Nintendo Wiimote IR Camera Sensor
 * **R1:** 4.7kΩ Through-Hole Metal Film Resistor 
