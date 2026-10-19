@@ -98,7 +98,7 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 * **U1:** Salvaged Nintendo Wiimote IR Camera Sensor
 * **R1:** 4.7kΩ Through-Hole Metal Film Resistor 
 * **R2:** 4.7kΩ Through-Hole Metal Film Resistor
-* **JST (Optional):** 5-pin JST MX 1.25 Connector (GND, VCC, SDA, SCL, CLK)
+* **JST (Optional):** 5-pin JST (PH 2.0 or MX 1.25) Connector (GND, VCC, SDA, SCL, CLK)
 
 ## 📌 Wiring Diagram Alignment
 
