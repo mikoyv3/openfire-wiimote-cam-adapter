@@ -12,10 +12,10 @@
     <tr>
       <td align="center" valign="middle"><b>JST PH 2.0</b><br>(1/4W Resistors)</b><br>PCB Size</b><br>13 mm* 30.1 mm</td>
       <td align="center" valign="middle">
-        <img src="pics/front_jlcpcb.png" width="120" alt="JST PH 2.0 Front View">
+        <img src="pics/front_jlcpcb.png" width="100" alt="JST PH 2.0 Front View">
       </td>
       <td align="center" valign="middle">
-        <img src="pics/back_jlcpcb.png" width="120" alt="JST PH 2.0 Back View">
+        <img src="pics/back_jlcpcb.png" width="100" alt="JST PH 2.0 Back View">
       </td>
       <td align="center" valign="middle" rowspan="2">
         <img src="pics/Wiimote_IR_Camera_Back_-_tab_on_top_with_labels.png" width="280" alt="Wiimote IR Camera Back View Tab On Top With Pin Labels">
