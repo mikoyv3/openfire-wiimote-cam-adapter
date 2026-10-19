@@ -3,15 +3,17 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center"><b>PCB Layout Views</b></td>
+      <td align="center"><b>PCB Front View</b></td>
+      <td align="center"><b>PCB Back View</b></td>
       <td align="center"><b>Camera Pin Labels</b></td>
       <td align="center"><b>OpenFIRE Wiring Diagram</b></td>
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <!-- Arranged side by side instead of stacked -->
-        <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125.png" width="160" alt="OpenFIRE Wiimote Camera PCB Front View" style="display: inline-block; margin-right: 5px;">
-        <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125-back.png" width="160" alt="OpenFIRE Wiimote Camera PCB Back View" style="display: inline-block;">
+        <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125.png" width="160" alt="OpenFIRE Wiimote Camera PCB Front View">
+      </td>
+      <td align="center" valign="middle">
+        <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125-back.png" width="160" alt="OpenFIRE Wiimote Camera PCB Back View">
       </td>
       <td align="center" valign="middle">
         <img src="pics/Wiimote_IR_Camera_Back_-_tab_on_top_with_labels.png" width="280" alt="Wiimote IR Camera Back View Tab On Top With Pin Labels">
@@ -22,6 +24,7 @@
     </tr>
   </table>
 </p>
+
 
 
 
