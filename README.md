@@ -9,7 +9,7 @@
       <td align="center"><b>Camera Pin Labels & OpenFIRE Wiring Diagram</b></td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><b>JST PH 2.0</b><br>(1/4W Resistors)<br>PCB Size<br>13mm*30.1 mm</td>
+      <td align="center" valign="middle"><b>JST PH 2.0</b><br>(1/4W Resistors)<br>PCB Size<br>13*30.1 mm</td>
       <td align="center" valign="middle">
         <img src="pics/front_jlcpcb.png" width="100" alt="JST PH 2.0 Front View">
       </td>
@@ -23,7 +23,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><b>JST MX 1.25</b><br>(1/8W Resistors)<br>PCB Size<br>13mm*22.5 mm</td>
+      <td align="center" valign="middle"><b>JST MX 1.25</b><br>(1/8W Resistors)<br>PCB Size<br>13*22.5 mm</td>
       <td align="center" valign="middle">
         <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125.png" width="160" alt="OpenFIRE Wiimote Camera PCB Front View">
       </td>
