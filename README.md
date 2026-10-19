@@ -1,4 +1,4 @@
-# I2C (OpenFIRE) DIY Wiimote IR Camera PCB
+# OpenFIRE (I2C) DIY Wiimote IR Camera PCB
 
 <p align="center">
   <table align="center">
