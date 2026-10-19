@@ -9,8 +9,9 @@
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125.png" width="160" alt="OpenFIRE Wiimote Camera PCB Front View">
-        <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125-back.png" width="160" alt="OpenFIRE Wiimote Camera PCB Back View">
+        <!-- Arranged side by side instead of stacked -->
+        <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125.png" width="160" alt="OpenFIRE Wiimote Camera PCB Front View" style="display: inline-block; margin-right: 5px;">
+        <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125-back.png" width="160" alt="OpenFIRE Wiimote Camera PCB Back View" style="display: inline-block;">
       </td>
       <td align="center" valign="middle">
         <img src="pics/Wiimote_IR_Camera_Back_-_tab_on_top_with_labels.png" width="280" alt="Wiimote IR Camera Back View Tab On Top With Pin Labels">
