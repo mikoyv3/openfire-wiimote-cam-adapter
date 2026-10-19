@@ -6,11 +6,10 @@
       <td align="center"><b>Variant Layout</b></td>
       <td align="center"><b>PCB Front View</b></td>
       <td align="center"><b>PCB Back View</b></td>
-      <td align="center"><b>Camera Pin Labels</b></td>
-      <td align="center"><b>OpenFIRE Wiring Diagram</b></td>
+      <td align="center"><b>Camera Pin Labels & OpenFIRE Wiring Diagram</b></td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><b>JST PH 2.0</b><br>(1/4W Resistors)</b><br>PCB Size</b><br>13 mm* 30.1 mm</td>
+      <td align="center" valign="middle"><b>JST PH 2.0</b><br>(1/4W Resistors)<br>PCB Size<br>13 mm * 30.1 mm</td>
       <td align="center" valign="middle">
         <img src="pics/front_jlcpcb.png" width="100" alt="JST PH 2.0 Front View">
       </td>
@@ -19,13 +18,12 @@
       </td>
       <td align="center" valign="middle" rowspan="2">
         <img src="pics/Wiimote_IR_Camera_Back_-_tab_on_top_with_labels.png" width="280" alt="Wiimote IR Camera Back View Tab On Top With Pin Labels">
-      </td>
-      <td align="center" valign="middle" rowspan="2">
+        <br><br>
         <img src="pics/openfire_pico_wii_ir_wiring.png" width="310" alt="OpenFIRE Raspberry Pi Pico Wiimote IR Wiring Diagram">
       </td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><b>JST MX 1.25</b><br>(1/8W Resistors)</b><br>PCB Size</b><br>13 mm* 22.5 mm</td>
+      <td align="center" valign="middle"><b>JST MX 1.25</b><br>(1/8W Resistors)<br>PCB Size<br>13 mm * 22.5 mm</td>
       <td align="center" valign="middle">
         <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125.png" width="160" alt="OpenFIRE Wiimote Camera PCB Front View">
       </td>
@@ -35,6 +33,7 @@
     </tr>
   </table>
 </p>
+
 
 
 ## ⚠️ PRELIMINARY DESIGN NOTICE
