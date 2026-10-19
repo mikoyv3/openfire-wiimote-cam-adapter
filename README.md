@@ -3,27 +3,39 @@
 <p align="center">
   <table align="center">
     <tr>
+      <td align="center"><b>Variant Layout</b></td>
       <td align="center"><b>PCB Front View</b></td>
       <td align="center"><b>PCB Back View</b></td>
       <td align="center"><b>Camera Pin Labels</b></td>
       <td align="center"><b>OpenFIRE Wiring Diagram</b></td>
     </tr>
     <tr>
+      <td align="center" valign="middle"><b>JST PH 2.0</b><br>(1/4W Resistors)</td>
+      <td align="center" valign="middle">
+        <img src="pics/front_pcb.png" width="160" alt="JST PH 2.0 Front View">
+      </td>
+      <td align="center" valign="middle">
+        <img src="pics/back_pcb.png" width="160" alt="JST PH 2.0 Back View">
+      </td>
+      <td align="center" valign="middle" rowspan="2">
+        <img src="pics/Wiimote_IR_Camera_Back_-_tab_on_top_with_labels.png" width="280" alt="Wiimote IR Camera Back View Tab On Top With Pin Labels">
+      </td>
+      <td align="center" valign="middle" rowspan="2">
+        <img src="pics/openfire_pico_wii_ir_wiring.png" width="310" alt="OpenFIRE Raspberry Pi Pico Wiimote IR Wiring Diagram">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><b>JST MX 1.25</b><br>(1/8W Resistors)</td>
       <td align="center" valign="middle">
         <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125.png" width="160" alt="OpenFIRE Wiimote Camera PCB Front View">
       </td>
       <td align="center" valign="middle">
         <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125-back.png" width="160" alt="OpenFIRE Wiimote Camera PCB Back View">
       </td>
-      <td align="center" valign="middle">
-        <img src="pics/Wiimote_IR_Camera_Back_-_tab_on_top_with_labels.png" width="280" alt="Wiimote IR Camera Back View Tab On Top With Pin Labels">
-      </td>
-      <td align="center" valign="middle">
-        <img src="pics/openfire_pico_wii_ir_wiring.png" width="310" alt="OpenFIRE Raspberry Pi Pico Wiimote IR Wiring Diagram">
-      </td>
     </tr>
   </table>
 </p>
+
 
 ## ⚠️ PRELIMINARY DESIGN NOTICE
 This PCB design has just been created and recently ordered with JLCPCB. It has not yet been physically tested or hand-assembled. However, the circuit topology is exceptionally simple and directly follows verified OpenFIRE community documentation, so it is highly anticipated to work without issues. Build at your own discretion while physical validation is underway!
