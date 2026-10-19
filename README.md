@@ -10,7 +10,7 @@
       <td align="center"><b>OpenFIRE Wiring Diagram</b></td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><b>JST PH 2.0</b><br>(1/4W Resistors)</td>
+      <td align="center" valign="middle"><b>JST PH 2.0</b><br>(1/4W Resistors)</b><br>PCB Size</b><br>13 mm* 30.1 mm</td>
       <td align="center" valign="middle">
         <img src="pics/front_pcb.png" width="160" alt="JST PH 2.0 Front View">
       </td>
@@ -25,7 +25,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><b>JST MX 1.25</b><br>(1/8W Resistors)</td>
+      <td align="center" valign="middle"><b>JST MX 1.25</b><br>(1/8W Resistors)</b><br>PCB Size</b><br>13 mm* 22.5 mm</td>
       <td align="center" valign="middle">
         <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125.png" width="160" alt="OpenFIRE Wiimote Camera PCB Front View">
       </td>
