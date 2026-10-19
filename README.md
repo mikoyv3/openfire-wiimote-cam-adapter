@@ -63,7 +63,7 @@ This hardware design is an evolutionary community effort built upon the foundati
 
 ## 🚀 Key Features
 
-* **Beginner-Friendly Through-Hole Resistors:** Uses through-hole **1/8 Watt axial resistors** (4.7kΩ) for easy hand-soldering and a slim profile.
+* **Beginner-Friendly Through-Hole Resistors:** Uses through-hole (4.7kΩ) for easy hand-soldering and a slim profile.
 * **Official Hardware Guide Aligned:** The trace layout is designed directly from the "DIY Wiimote Conversion (Using Clock Pin)" schematic on **page 4** of the official **[OpenFIRE-Hardware-Guide_1.3.pdf](https://openfirelightgun.org/wp-content/uploads/2026/10/OpenFIRE-Hardware-Guide_1.3.pdf)** manual.
 * **Optional 5-Pin JST MX 1.25 Connector:** Physical JST socket will fit inside the barrel shell.
 * **Zero Onboard Crystal Needed:** Relies on OpenFIRE's native pin-generated clock (`CLK`), omitting external oscillators.
@@ -96,8 +96,8 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 
 ### Bill of Materials (BOM)
 * **U1:** Salvaged Nintendo Wiimote IR Camera Sensor
-* **R1:** 4.7kΩ Through-Hole Resistor (**1/8 Watt / Axial**)
-* **R2:** 4.7kΩ Through-Hole Resistor (**1/8 Watt / Axial**)
+* **R1:** 4.7kΩ Through-Hole Resistor
+* **R2:** 4.7kΩ Through-Hole Resistor
 * **JST (Optional):** 5-pin JST MX 1.25 Connector (GND, VCC, SDA, SCL, CLK)
 
 ## 📌 Wiring Diagram Alignment
