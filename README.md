@@ -39,6 +39,16 @@
 ## ⚠️ PRELIMINARY DESIGN NOTICE
 This PCB design has just been created and recently ordered with JLCPCB. It has not yet been physically tested or hand-assembled. However, the circuit topology is exceptionally simple and directly follows verified OpenFIRE community documentation, so it is highly anticipated to work without issues. Build at your own discretion while physical validation is underway!
 
+## 🛠️ JLCPCB PCBA Ordering Guide
+If you want to order a pre-assembled panel with all components and connectors already soldered, you can use the eatnooM v1.3 board design. 
+
+For step-by-step instructions on how to configure your fabrication settings, upload your files, and complete your order, follow our detailed [JLCPCB PCBA Ordering Guide](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/blob/main/JLCPCB/PCBA_Ordering.md).
+
+* **Base Board Design:** [eatnooM PixArt Sensor Adapter (Release v1.3)](https://github.com/eatnooM/pixart-sensor-adapter/releases/tag/v1.3)
+* **Preferred Manufacturer:** JLCPCB
+
+ <img src="pics/pixart-sensor-adapter-inline-connector-panel-2-vert.png" width="360" alt="v1.3">
+
 ## 📦 What's Included
 This release contains **two untested variant versions** of the board layout:
 
