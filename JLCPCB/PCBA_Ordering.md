@@ -2,7 +2,6 @@
    <img width="809" height="251" alt="image" src="https://github.com/user-attachments/assets/287a8c43-66c2-4e49-a200-7227e7edb4d0" />
 
 2. Click the blue Add gerber file button to upload eatnooM PCBA panel gerber, named  **[pixart-sensor-adapter-inline-connector-panel-2-vert_gerbers.zip](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/blob/main/JLCPCB/pixart-sensor-adapter-inline-connector-panel-2-vert_gerbers.zip)**  , directly into that upload section.</br>
-   eatNooM Github PCBA : https://github.com/eatnooM/pixart-sensor-adapter/releases/tag/v1.3 </br>
    <img width="745" height="372" alt="image" src="https://github.com/user-attachments/assets/63a884df-4b40-449b-983f-f89833e9355b" /></br>
    <img width="753" height="400" alt="image" src="https://github.com/user-attachments/assets/cf7e225d-c6dd-4ac0-a0b1-3ce512b6ab7a" /></br>
 
