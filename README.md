@@ -40,7 +40,13 @@
 This PCB design has just been created and recently ordered with JLCPCB. It has not yet been physically tested or hand-assembled. However, the circuit topology is exceptionally simple and directly follows verified OpenFIRE community documentation, so it is highly anticipated to work without issues. Build at your own discretion while physical validation is underway!
 
 ## 🛠️ Gun4IR DIY: The Easy, Pre-Assembled JLCPCB Method
-This guide covers the easiest and fastest way to build your IR camera pcb. By leveraging JLCPCB’s PCBA (PCB Assembly) service, you receive a nearly complete, surface-mount-assembled board straight from the factory. For step-by-step instructions on how to configure your fabrication settings, upload your files, and complete your order, follow my detailed [JLCPCB PCBA Ordering Guide](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/blob/main/JLCPCB/PCBA_Ordering.md).
+This guide covers the easiest and fastest way to build your IR camera pcb. By leveraging JLCPCB’s PCBA (PCB Assembly) service, you receive a nearly complete, surface-mount-assembled board straight from the factory.
+
+You do not need to hand-solder tiny surface-mount components. The factory handles 99% of the work. Your only job is to hand-solder the Wii IR camera (and standard through-hole connectors like the Pro Micro headers or pins) once the board arrives.
+
+For step-by-step instructions on how to configure your fabrication settings, upload your files, and complete your order, follow my detailed [JLCPCB PCBA Ordering Guide](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/blob/main/JLCPCB/PCBA_Ordering.md).
+
+
 
 * **Base Board Design:** [eatnooM PixArt Sensor Adapter (Release v1.3)](https://github.com/eatnooM/pixart-sensor-adapter/releases/tag/v1.3)
 * **Preferred Fabricator:** JLCPCB
