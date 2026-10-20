@@ -17,8 +17,8 @@
      <img width="1081" height="695" alt="image" src="https://github.com/user-attachments/assets/1fe3ea03-86d0-4cbf-b6d5-a2aed1c34e4a" /></br>
 
 7. Upload the BOM and CPL file, then Click the blue Process BOM & CPL button in the bottom right corner to parse your uploaded files and match your adapter components.</br>
-   BOM File : [pixart-sensor-adapter-inline-connector-panel-2-vert_bom.csv](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/releases/download/gun4ir/pixart-sensor-adapter-inline-panel-2-vert_bom.csv)</br>
-   CPL File : [pixart-sensor-adapter-inline-connector-panel-2-vert_positions-jlc.csv](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/releases/download/gun4ir/pixart-sensor-adapter-inline-panel-2-vert_positions.csv)</br>
+   BOM File : [pixart-sensor-adapter-inline-connector-panel-2-vert_bom.csv](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/releases/download/gun4ir/pixart-sensor-adapter-inline-connector-panel-2-vert_bom.csv) </br>
+   CPL File : [pixart-sensor-adapter-inline-connector-panel-2-vert_positions.csv](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/releases/download/gun4ir/pixart-sensor-adapter-inline-panel-2-vert_positions.csv)</br>
    <img width="1067" height="379" alt="image" src="https://github.com/user-attachments/assets/8de2937a-09d6-4999-b976-94e91c7bd49f" /></br>
    <img width="1071" height="380" alt="image" src="https://github.com/user-attachments/assets/4214f18f-6c3c-4093-912e-bb3a89223290" /></br>
 
