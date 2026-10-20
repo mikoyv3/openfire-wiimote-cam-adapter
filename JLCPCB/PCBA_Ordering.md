@@ -11,7 +11,7 @@
    20 total PCB, set Column 1 and Row 2
      <img width="745" height="347" alt="image" src="https://github.com/user-attachments/assets/73f1aab6-26c4-4b63-a8cb-61d7d9b629ab" /></br>
 
-5.  Ensure the PCB Assembly toggled, then click the blue NEXT button to proceed.</br>
+5.  Ensure the PCB Assembly is toggled, then click the blue NEXT button to proceed.</br>
      <img width="1051" height="520" alt="image" src="https://github.com/user-attachments/assets/b33fad7a-dbc0-4fd9-8367-93b523a8ce30" /></br>
 
 6. Click the blue NEXT button on the right side of the interface to move on to the Bill of Materials (BOM) page.</br>
