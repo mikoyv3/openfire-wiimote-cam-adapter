@@ -19,7 +19,7 @@
 
 7. Upload the BOM and CPL file, then Click the blue Process BOM & CPL button in the bottom right corner to parse your uploaded files and match your adapter components.</br>
    BOM File : [pixart-sensor-adapter-inline-connector-panel-2-vert_bom.csv](https://github.com/eatnooM/pixart-sensor-adapter/releases/download/v1.3/pixart-sensor-adapter-inline-panel-2-vert_bom.csv)</br>
-   CPL File : [pixart-sensor-adapter-inline-connector-panel-2-vert_positions.csv](https://github.com/eatnooM/pixart-sensor-adapter/releases/download/v1.3/pixart-sensor-adapter-inline-panel-2-vert_positions.csv)</br>
+   CPL File : [pixart-sensor-adapter-inline-connector-panel-2-vert_positions-jlc.csv](https://github.com/eatnooM/pixart-sensor-adapter/releases/download/v1.3/pixart-sensor-adapter-inline-panel-2-vert_positions-jlc.csv)</br>
    <img width="1067" height="379" alt="image" src="https://github.com/user-attachments/assets/8de2937a-09d6-4999-b976-94e91c7bd49f" /></br>
    <img width="1071" height="380" alt="image" src="https://github.com/user-attachments/assets/4214f18f-6c3c-4093-912e-bb3a89223290" /></br>
 
