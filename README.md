@@ -39,7 +39,7 @@
 ## ⚠️ PRELIMINARY DESIGN NOTICE
 This PCB design has just been created and recently ordered with JLCPCB. It has not yet been physically tested or hand-assembled. However, the circuit topology is exceptionally simple and directly follows verified OpenFIRE community documentation, so it is highly anticipated to work without issues. Build at your own discretion while physical validation is underway!
 
-## 🛠️ Gun4IR DIY: The Easy, Pre-Assembled JLCPCB Method <br>  (ALTERNATIVE / PLAN B / OPTION 2)
+## 🛑⚠️ Gun4IR DIY: The Easy, Pre-Assembled JLCPCB Method ⚠️🛑 <br>  (ALTERNATIVE / PLAN B / OPTION 2)
 
  <img src="pics/pixart-sensor-adapter-inline-connector-panel-2-vert.png" width="360" alt="v1.3">
 
