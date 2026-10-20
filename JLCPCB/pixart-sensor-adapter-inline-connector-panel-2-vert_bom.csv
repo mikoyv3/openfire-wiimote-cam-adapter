@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1_2, C1",0603,2,0.1uF,C14663
+"C2_2, C2, C3_2, C3",0603,4,1uF,C15849
+"J1_2, J1",Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal,2,Conn_01x04_Pin,C5175205
+"R1_2, R1, R2_2, R2",0603,4,2.7K,C13167
+"R3_2, R3",0603,2,33K,C4216
+"U1_2, U1",wiimote-pixart-camera-inline_slim,2,~,
+"U2_2, U2",SOT-23-5,2,AP2112-3.3V,C51118
+"X1_2, X1",Oscillator_SMD_SeikoEpson_SG8002CE-4Pin_3.2x2.5mm,2,SG3225CAN 24.0000M-TJGA3,C5203548
