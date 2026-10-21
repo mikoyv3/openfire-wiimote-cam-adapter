@@ -51,7 +51,7 @@ For step-by-step instructions on how to configure your fabrication settings, upl
 
 * **Base Board Design:** [eatnooM PixArt Sensor Adapter (Release v1.3)](https://github.com/eatnooM/pixart-sensor-adapter/releases/tag/v1.3)
 * **Required (not included):** [JST MX 1.25mm Wire Cable Connector (4 Pin)](https://www.aliexpress.com/item/1005007277110532.html)
-* **Preferred Fabricator:** JLCPCB
+* **Preferred Fabricator:** [JLCPCB](https://jlcpcb.com/)
 
 ## 📦 What's Included
 This release contains **two untested variant versions** of the board layout:
