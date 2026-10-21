@@ -50,7 +50,7 @@ You do not need to hand-solder tiny surface-mount components. The factory handle
 For step-by-step instructions on how to configure your fabrication settings, upload your files, and complete your order, follow my detailed [JLCPCB PCBA Ordering Guide](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/blob/main/JLCPCB/PCBA_Ordering.md).
 
 * **Base Board Design:** [eatnooM PixArt Sensor Adapter (Release v1.3)](https://github.com/eatnooM/pixart-sensor-adapter/releases/tag/v1.3)
-* **Requires (not included):** JST MX 1.25mm Wire Cable Connector
+* **Required (not included):** [JST MX 1.25mm Wire Cable Connector (4 Pin)](https://www.aliexpress.com/item/1005007277110532.html)
 * **Preferred Fabricator:** JLCPCB
 
 ## 📦 What's Included
