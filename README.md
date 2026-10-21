@@ -43,7 +43,7 @@ This PCB design has just been created and recently ordered with JLCPCB. It has n
 
  <img src="pics/pixart-sensor-adapter-inline-connector-panel-2-vert.png" width="360" alt="v1.3">
 
-This guide covers the easiest and fastest way to build your IR camera pcb. By leveraging JLCPCB’s PCBA (PCB Assembly) service, you receive a nearly complete, surface-mount-assembled board straight from the factory.
+If you need the easiest and fastest way to build your IR camera pcb. By leveraging JLCPCB’s PCBA (PCB Assembly) service, you receive a nearly complete, surface-mount-assembled board straight from the factory.
 
 You do not need to hand-solder tiny surface-mount components. The factory handles 99% of the work. Your only job is to hand-solder the Wii IR camera (and standard through-hole connectors like the Pro Micro headers or pins) once the board arrives.
 
