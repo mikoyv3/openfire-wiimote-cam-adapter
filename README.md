@@ -39,8 +39,10 @@
 ## ⚠️ PRELIMINARY DESIGN NOTICE
 This PCB design has just been created and recently ordered with JLCPCB. It has not yet been physically tested or hand-assembled. However, the circuit topology is exceptionally simple and directly follows verified OpenFIRE community documentation, so it is highly anticipated to work without issues. Build at your own discretion while physical validation is underway!
 
+<kbd>
+<p align="center">
 ## 🛑⚠️ Gun4IR DIY: The Easy, Pre-Assembled JLCPCB Method ⚠️🛑 <br>  (ALTERNATIVE / PLAN B / OPTION 2)
-
+</p>
 <p align="center">
   <img src="pics/pixart-sensor-adapter-inline-connector-panel-2-vert.png" width="360" alt="v1.3">
 </p>
@@ -54,6 +56,8 @@ For step-by-step instructions on how to configure your fabrication settings, upl
 * **Base Board Design:** [eatnooM PixArt Sensor Adapter (Release v1.3)](https://github.com/eatnooM/pixart-sensor-adapter/releases/tag/v1.3)
 * **Required (not included):** [JST MX 1.25mm Wire Cable Connector (4 Pin)](https://www.aliexpress.com/item/1005007277110532.html)
 * **Preferred Fabricator:** [JLCPCB](https://jlcpcb.com/)
+
+</kbd>
 
 ## 📦 What's Included
 This release contains **two untested variant versions** of the board layout:
