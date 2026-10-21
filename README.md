@@ -38,7 +38,7 @@
 
 <kbd>
 <p align="center">
-## 🛑⚠️ Gun4IR DIY: The Easy, Pre-Assembled JLCPCB Method ⚠️🛑 <br>  (ALTERNATIVE / PLAN B / OPTION 2)
+## 🛑⚠️ Gun4IR/OpenFIRE DIY: The Easy, Pre-Assembled JLCPCB Method ⚠️🛑 <br>  (ALTERNATIVE / PLAN B / OPTION 2)
 </p>
 <p align="center">
   <img src="pics/pixart-sensor-adapter-inline-connector-panel-2-vert.png" width="360" alt="v1.3">
