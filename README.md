@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td align="center" valign="middle" colspan="3">
-        <b>🟣 <a href="https://oshpark.com/shared_projects/c3ysrlNx" target="_blank">Order JST PH 2.0 Board from OSH Park</a></b>
+        <b>🟣 <a href="https://oshpark.com/shared_projects/c3ysrlNx" target="_blank">Order JST PH 2.0 Board from OSH Park (0.8mm thickness)</a></b>
       </td>
     </tr>
     <tr>
@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td align="center" valign="middle" colspan="3">
-        <b>🟣 <a href="https://oshpark.com/shared_projects/mT5Oy4iq" target="_blank">Order JST MX 1.25 Board from OSH Park</a></b>
+        <b>🟣 <a href="https://oshpark.com/shared_projects/mT5Oy4iq" target="_blank">Order JST MX 1.25 Board from OSH Park (0.8mm thickness)</a></b>
       </td>
     </tr>
   </table>
