@@ -16,10 +16,15 @@
       <td align="center" valign="middle">
         <img src="pics/back_jlcpcb.png" width="100" alt="JST PH 2.0 Back View">
       </td>
-      <td align="center" valign="middle" rowspan="2">
+      <td align="center" valign="middle" rowspan="4">
         <img src="pics/Wiimote_IR_Camera_Back_-_tab_on_top_with_labels.png" width="280" alt="Wiimote IR Camera Back View Tab On Top With Pin Labels">
         <br><br>
         <img src="pics/openfire_pico_wii_ir_wiring.png" width="310" alt="OpenFIRE Raspberry Pi Pico Wiimote IR Wiring Diagram">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" colspan="3">
+        <b>🟣 <a href="https://oshpark.com" target="_blank">Order JST PH 2.0 Board from OSH Park</a></b>
       </td>
     </tr>
     <tr>
@@ -31,8 +36,15 @@
         <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125-back.png" width="160" alt="OpenFIRE Wiimote Camera PCB Back View">
       </td>
     </tr>
+    <tr>
+      <td align="center" valign="middle" colspan="3">
+        <b>🟣 <a href="https://oshpark.com" target="_blank">Order JST MX 1.25 Board from OSH Park</a></b>
+      </td>
+    </tr>
   </table>
 </p>
+
+
 
 
 
