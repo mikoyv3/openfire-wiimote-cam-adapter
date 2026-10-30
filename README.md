@@ -69,10 +69,10 @@ For step-by-step instructions on how to configure your fabrication settings, upl
 </kbd>
 
 ## 📦 What's Included
-This release contains **two untested variant versions** of the board layout:
+This release contains **two variant versions** of the board layout:
 
 * **JST PH 2.0 Variant:** Utilizes a standard JST PH 2.0mm connector layout and uses **1/4 watt resistors**.
-* **JST MX 1.25 Variant (Compact):** Redesigned down to match **eatnooM's** compact PCB footprint size. This specific variant switches the connector layout to a JST MX 1.25mm format and uses **1/8 watt resistors**.
+* **JST MX 1.25 Variant (Compact & untested) :** Redesigned down to match **eatnooM's** compact PCB footprint size. This specific variant switches the connector layout to a JST MX 1.25mm format and uses **1/8 watt resistors**.
 
 ## 🛠️ Assets
 Download the corresponding Gerber zip files below depending on your preferred connector type and size layout constraint.
