@@ -112,7 +112,7 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 * **Flux Recommendation:** Use high-quality flux like **Chip Quik SMD291** when soldering the Wii IR camera onto the PCB.
 * **Soldering Assist:** Print and use the [Soldering Alignment Jig](https://github.com/eatnooM/pixart-sensor-adapter/blob/main/inline/printables/Wii-IR-camera-solder-guideGun4IR-v7.stl) to maintain flush alignment.
 
-<img src="pics/JST_PH_OK.jpg" width="150" alt="JST PH 2.0"> <img src="pics/JST_PH_OK2.jpg" width="150" alt="JST PH 2.0"> <img src="pics/JST_PH_OK3.jpg" width="150" alt="JST PH 2.0"> <img src="pics/JST_PH_OK4.jpg" width="150" alt="JST PH 2.0">
+<img src="pics/JST_PH_OK.jpg" width="150" alt="JST PH 2.0"> <img src="pics/JST_PH_OK2.jpg" width="150" alt="JST PH 2.0"> <img src="pics/JST_PH_OK3.jpg" width="150" alt="JST PH 2.0"> <img src="pics/JST_PH_OK5.jpg" width="150" alt="JST PH 2.0"> <img src="pics/JST_PH_OK4.jpg" width="150" alt="JST PH 2.0">
 
 ---
 
