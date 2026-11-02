@@ -11,10 +11,10 @@
     <tr>
       <td align="center" valign="middle"><b>JST PH 2.0</b><br>(1/4W Resistors)<br>PCB Size<br>13*30.1 mm</td>
       <td align="center" valign="middle">
-        <img src="pics/front_jlcpcb.png" width="130" alt="JST PH 2.0 Front View">
+        <img src="pics/front_jlcpcb.png" width="160" alt="JST PH 2.0 Front View">
       </td>
       <td align="center" valign="middle">
-        <img src="pics/back_jlcpcb.png" width="130" alt="JST PH 2.0 Back View">
+        <img src="pics/back_jlcpcb.png" width="160" alt="JST PH 2.0 Back View">
       </td>
       <td align="center" valign="middle" rowspan="4">
         <img src="pics/Wiimote_IR_Camera_Back_-_tab_on_top_with_labels.png" width="280" alt="Wiimote IR Camera Back View Tab On Top With Pin Labels ">
@@ -55,10 +55,10 @@
     <tr>
       <td align="center" valign="middle"><b>JST PH 2.0</b><br>(1/4W Resistors)<br><b>C1: 0.1µF Cap</b><br>PCB Size<br>13*30.1 mm</td>
       <td align="center" valign="middle">
-        <img src="pics/OpenFIRE-Resistors-PCB-JST_PH2_UO_Front.png" width="130" alt="JST PH 2.0 Front View">
+        <img src="pics/OpenFIRE-Resistors-PCB-JST_PH2_UO_Front.png" width="160" alt="JST PH 2.0 Front View">
       </td>
       <td align="center" valign="middle">
-        <img src="pics/OpenFIRE-Resistors-PCB-JST_PH2_UO_Back.png" width="130" alt="JST PH 2.0 Back View">
+        <img src="pics/OpenFIRE-Resistors-PCB-JST_PH2_UO_Back.png" width="160" alt="JST PH 2.0 Back View">
       </td>
       <td align="center" valign="middle">
         <img src="pics/openfire_pico_wii_ir_wiring_unofficial.png" width="300" alt="OpenFIRE Raspberry Pi Pico Wiimote IR Wiring Diagram">
