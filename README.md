@@ -44,7 +44,39 @@
   </table>
 </p>
 
-
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center"><b>Variant Layout</b></td>
+      <td align="center"><b>PCB Front View</b></td>
+      <td align="center"><b>PCB Back View</b></td>
+      <td align="center"><b>OpenFIRE Unofficial Wiring Diagram</b></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><b>JST PH 2.0</b><br>(1/4W Resistors)<br><b>C1: 0.1µF Cap</b><br>PCB Size<br>13*30.1 mm</td>
+      <td align="center" valign="middle">
+        <img src="pics/OpenFIRE-Resistors-PCB-JST_PH2_UO_Front.png" width="100" alt="JST PH 2.0 Front View">
+      </td>
+      <td align="center" valign="middle">
+        <img src="pics/OpenFIRE-Resistors-PCB-JST_PH2_UO_Back.png" width="100" alt="JST PH 2.0 Back View">
+      </td>
+      <td align="center" valign="middle">
+        <img src="pics/openfire_pico_wii_ir_wiring_unofficial.png" width="300" alt="OpenFIRE Raspberry Pi Pico Wiimote IR Wiring Diagram">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><b>Design Purpose & Deviation Notes</b></td>
+      <td align="center" valign="middle" colspan="3" align="left">
+     Discussions from Discord suggested that adding a localized decoupling capacitor on the camera module's power rail is best practice to stabilize voltage delivery and minimize potential noise. There is an active documentation change request to update the official OpenFIRE schematic guidelines accordingly (<a href="https://github.com" target="_blank">Issue #120</a>). In the meantime, this layout provides that feature as an option.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" colspan="4">
+        <b>🟣 <a href="https://oshpark.com/shared_projects/3LxfKNea" target="_blank">Order JST PH 2.0 Unofficial Board from OSH Park (0.8mm thickness)</a></b>
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 
