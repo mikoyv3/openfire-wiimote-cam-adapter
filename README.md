@@ -53,7 +53,7 @@
       <td align="center"><b>OpenFIRE Unofficial Wiring Diagram</b></td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><b>JST PH 2.0</b><br>(1/4W Resistors)<br><b>C1: 0.1µF Cap</b><br>PCB Size<br>13*30.1 mm</td>
+      <td align="center" valign="middle"><b>JST PH 2.0</b><br>(1/4W Resistors<br><b> and 0.1µF Capacitor)</b><br>PCB Size<br>13*30.1 mm</td>
       <td align="center" valign="middle">
         <img src="pics/OpenFIRE-Resistors-PCB-JST_PH2_UO_Front.png" width="160" alt="JST PH 2.0 Front View">
       </td>
