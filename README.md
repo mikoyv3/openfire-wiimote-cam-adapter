@@ -55,10 +55,10 @@
     <tr>
       <td align="center" valign="middle"><b>JST PH 2.0</b><br>(1/4W Resistors)<br><b>C1: 0.1µF Cap</b><br>PCB Size<br>13*30.1 mm</td>
       <td align="center" valign="middle">
-        <img src="pics/OpenFIRE-Resistors-PCB-JST_PH2_UO_Front.png" width="100" alt="JST PH 2.0 Front View">
+        <img src="pics/OpenFIRE-Resistors-PCB-JST_PH2_UO_Front.png" width="130" alt="JST PH 2.0 Front View">
       </td>
       <td align="center" valign="middle">
-        <img src="pics/OpenFIRE-Resistors-PCB-JST_PH2_UO_Back.png" width="100" alt="JST PH 2.0 Back View">
+        <img src="pics/OpenFIRE-Resistors-PCB-JST_PH2_UO_Back.png" width="130" alt="JST PH 2.0 Back View">
       </td>
       <td align="center" valign="middle">
         <img src="pics/openfire_pico_wii_ir_wiring_unofficial.png" width="300" alt="OpenFIRE Raspberry Pi Pico Wiimote IR Wiring Diagram">
