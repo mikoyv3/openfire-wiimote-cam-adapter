@@ -6,7 +6,7 @@
       <td align="center"><b>Variant Layout</b></td>
       <td align="center"><b>PCB Front View</b></td>
       <td align="center"><b>PCB Back View</b></td>
-      <td align="center"><b>Camera Pin Labels & OpenFIRE Wiring Diagram</b></td>
+      <td align="center"><b>OpenFIRE Official Wiring Diagram & Camera Pin Labels</b></td>
     </tr>
     <tr>
       <td align="center" valign="middle"><b>JST PH 2.0</b><br>(1/4W Resistors)<br>PCB Size<br>13*30.1 mm</td>
@@ -17,9 +17,9 @@
         <img src="pics/back_jlcpcb.png" width="160" alt="JST PH 2.0 Back View">
       </td>
       <td align="center" valign="middle" rowspan="4">
-        <img src="pics/Wiimote_IR_Camera_Back_-_tab_on_top_with_labels.png" width="280" alt="Wiimote IR Camera Back View Tab On Top With Pin Labels ">
-        <br><br>
         <img src="pics/openfire_pico_wii_ir_wiring.png" width="310" alt="OpenFIRE Raspberry Pi Pico Wiimote IR Wiring Diagram">
+        <br><br>
+        <img src="pics/Wiimote_IR_Camera_Back_-_tab_on_top_with_labels.png" width="280" alt="Wiimote IR Camera Back View Tab On Top With Pin Labels ">
       </td>
     </tr>
     <tr>
