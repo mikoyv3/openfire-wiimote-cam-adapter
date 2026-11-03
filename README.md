@@ -107,7 +107,7 @@ This release contains **two variant versions** of the board layout:
 * **JST MX 1.25 Variant (Compact & untested) :** Redesigned down to match **eatnooM's** compact PCB footprint size. This specific variant switches the connector layout to a JST MX 1.25mm format and uses **1/8 watt resistors**.
 
 ## 🛠️ Assets
-Download the corresponding Gerber zip files under Releases depending on your preferred connector type and size layout constraint.
+[Download](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/releases) the corresponding Gerber zip files depending on your preferred connector type and size layout constraint.
 
 
 
