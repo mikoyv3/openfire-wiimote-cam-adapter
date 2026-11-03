@@ -107,7 +107,7 @@ This release contains **two variant versions** of the board layout:
 * **JST MX 1.25 Variant (Compact & untested) :** Redesigned down to match **eatnooM's** compact PCB footprint size. This specific variant switches the connector layout to a JST MX 1.25mm format and uses **1/8 watt resistors**.
 
 ## 🛠️ Assets
-Download the corresponding Gerber zip files below depending on your preferred connector type and size layout constraint.
+Download the corresponding Gerber zip files under Releases depending on your preferred connector type and size layout constraint.
 
 
 
