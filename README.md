@@ -84,12 +84,6 @@ For step-by-step instructions on how to configure your fabrication settings, upl
 
 </kbd>
 
-## 📦 What's Included
-This release contains **two variant versions** of the board layout:
-
-* **JST PH 2.0 Variant:** Utilizes a standard JST PH 2.0mm connector layout and uses **1/4 watt resistors**.
-* **JST MX 1.25 Variant (Compact & untested) :** Redesigned down to match **eatnooM's** compact PCB footprint size. This specific variant switches the connector layout to a JST MX 1.25mm format and uses **1/8 watt resistors**.
-
 ## 🛠️ Assets
 [Download](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/releases) the corresponding Gerber zip files depending on your preferred connector type and size layout constraint.
 
@@ -109,7 +103,7 @@ This hardware design is an evolutionary community effort built upon the foundati
 
 * **Beginner-Friendly Through-Hole Resistors:** Uses through-hole resistors (4.7kΩ) for easy hand-soldering and a slim profile.
 * **Official Hardware Guide Aligned:** The trace layout is designed directly from the "DIY Wiimote Conversion (Using Clock Pin)" schematic on **page 4** of the official **[OpenFIRE-Hardware-Guide_1.3.pdf](https://openfirelightgun.org/wp-content/uploads/2026/10/OpenFIRE-Hardware-Guide_1.3.pdf)** manual.
-* **Optional 5-Pin JST Connector:** Physical JST socket will fit inside the barrel shell (JST MX 1.25)
+* **Optional 5-Pin JST Connector:** Physical JST socket will fit the barrel shell and should be inserted from the back and the IR camera cover last. 
 * **Enclosure-Ready Geometry:** Formatted specifically to seat right into RetroMidget's Wiimote camera housing using standard dimensions from @slikvik55's Lightgun3DParts repository.
 * **Zero Onboard Crystal Needed:** Relies on OpenFIRE's native pin-generated clock (`CLK`), omitting external oscillators.
 * **Direct 3.3V Power Line:** Streamlined 3.3V power path supplied directly by a Raspberry Pi Pico.
@@ -146,7 +140,7 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 * **R1:** 4.7kΩ Through-Hole Metal Film Resistor 
 * **R2:** 4.7kΩ Through-Hole Metal Film Resistor
 * **C1:** 100NF 0.1uF Through-Hole Monolithic Ceramic Capacitor (Unofficial)
-* **JST (Optional):** 5-pin JST (PH 2.0 or MX 1.25) Connector (GND, VCC, SDA, SCL, CLK)
+* **JST (Optional):** 5-pin JST (PH 2.0) Connector (GND, VCC, SDA, SCL, CLK)
 
 ## 📌 Wiring Diagram Alignment
 
