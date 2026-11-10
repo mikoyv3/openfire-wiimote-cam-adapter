@@ -18,27 +18,11 @@
       </td>
       <td align="center" valign="middle" rowspan="4">
         <img src="pics/openfire_pico_wii_ir_wiring_official.png" width="410" alt="OpenFIRE Raspberry Pi Pico Wiimote IR Wiring Diagram">
-        <br><br>
-        <img src="pics/Wiimote_IR_Camera_Back_-_tab_on_top_with_labels.png" width="280" alt="Wiimote IR Camera Back View Tab On Top With Pin Labels ">
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle" colspan="3">
         <b>🟣 <a href="https://oshpark.com/shared_projects/DqOJEs91" target="_blank">Order JST PH 2.0 Board from OSH Park (0.8mm thickness)</a></b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle"><b>JST MX 1.25</b><br>(1/8W Resistors)<br>PCB Size<br>13*22.5 mm</td>
-      <td align="center" valign="middle">
-        <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125.png" width="160" alt="OpenFIRE Wiimote Camera PCB Front View">
-      </td>
-      <td align="center" valign="middle">
-        <img src="pics/OpenFIRE-Resistors-PCB-JST_MX_125-back.png" width="160" alt="OpenFIRE Wiimote Camera PCB Back View">
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle" colspan="3">
-        <b>🟣 <a href="https://oshpark.com/shared_projects/mT5Oy4iq" target="_blank">Order JST MX 1.25 Board from OSH Park (0.8mm thickness)</a></b>
       </td>
     </tr>
   </table>
@@ -166,6 +150,8 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 
 ## 📌 Wiring Diagram Alignment
 
+<img src="pics/Wiimote_IR_Camera_Back_-_tab_on_top_with_labels.png" width="280" alt="Wiimote IR Camera Back View Tab On Top With Pin Labels ">
+        
 Ensure the Raspberry Pi Pico pinouts map directly to the corresponding board output lines. While you can configure your own pinouts in firmware, here is the recommended standard layout:
 
 * **GND:** Connect board **GND** ➔ Raspberry Pi Pico **GND** (Any ground pin)
