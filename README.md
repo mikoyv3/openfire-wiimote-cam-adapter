@@ -140,7 +140,7 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 * **R1:** 4.7kΩ Through-Hole Metal Film Resistor 
 * **R2:** 4.7kΩ Through-Hole Metal Film Resistor
 * **C1:** 100NF 0.1uF Through-Hole Monolithic Ceramic Capacitor (Unofficial)
-* **JST (Optional):** 5-pin JST (PH 2.0) Connector (GND, VCC, SDA, SCL, CLK) https://www.aliexpress.com/item/1005007270514533.html
+* **JST (Optional):** 5-pin JST (PH 2.0) Bent Pin Connector (GND, VCC, SDA, SCL, CLK) and Cable
 
 ## 📌 Wiring Diagram Alignment
 
