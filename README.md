@@ -149,11 +149,12 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 Ensure the Raspberry Pi Pico pinouts map directly to the corresponding board output lines. While you can configure your own pinouts in firmware, here is the recommended standard layout:
 
 * **GND:** Connect board **GND** ➔ Raspberry Pi Pico **GND** (Any ground pin)
+* **CLK:** Connect board **CLK** ➔ Raspberry Pi Pico **GP22** <br>
+  *(💡 Note: GP22 is the suggested pin-out. Clock pin will need to be set in the OpenFIRE application).*
 * **VCC:** Connect board **VCC** ➔ Raspberry Pi Pico **3V3 OUT**
 * **SDA:** Connect board **SDA** ➔ Raspberry Pi Pico **GP20**
 * **SCL:** Connect board **SCL** ➔ Raspberry Pi Pico **GP21**
-* **CLK:** Connect board **CLK** ➔ Raspberry Pi Pico **GP22**
-  *(💡 Note: GP22 is the suggested pin-out. Clock pin will need to be set in the OpenFIRE application).*
+
 
 
 ---
