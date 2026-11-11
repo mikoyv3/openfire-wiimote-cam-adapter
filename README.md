@@ -130,6 +130,7 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 * **OpenFIRE Unofficial DIY Camera Wiring**<br>
 <img src="pics/JST_PH_CAP_OK1.jpeg" width="150" alt="JST PH 2.0"> <img src="pics/JST_PH_CAP_OK2.jpeg" width="150" alt="JST PH 2.0"> <img src="pics/JST_PH_CAP_OK3.jpeg" width="150" alt="JST PH 2.0">
 <br>
+
 ---
 
 ## 🛠 Ordering & Assembly Instructions
