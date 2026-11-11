@@ -133,6 +133,10 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 <img src="pics/JST_PH_CAP_OK1.jpeg" width="150" alt="JST PH 2.0"> <img src="pics/JST_PH_CAP_OK2.jpeg" width="150" alt="JST PH 2.0"> <img src="pics/JST_PH_CAP_OK3.jpeg" width="150" alt="JST PH 2.0">
 <br>
 
+* **Eatnoom v1.3 IR camera PCBs using JLCPCB’s PCBA service**<br>
+<img src="pics/v13_6.png" width="150" alt="JST PH 2.0"> <img src="pics/v13_1.jpg" width="150" alt="JST PH 2.0"> <img src="pics/v13_2.jpg" width="150" alt="JST PH 2.0"> <img src="pics/v13_3.jpg" width="150" alt="JST PH 2.0"> <img src="pics/v13_4.jpg" width="150" alt="JST PH 2.0">
+<br>
+
 ---
 
 ## 🛠 Ordering & Assembly Instructions
