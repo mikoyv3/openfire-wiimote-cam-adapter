@@ -127,7 +127,7 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center"><b>PCB Beforet</b></td>
+      <td align="center"><b>PCB Before</b></td>
       <td align="center"><b>PCB After</b></td>
       <td align="center"><b>Tool (Nail File)</b></td>
     </tr>
