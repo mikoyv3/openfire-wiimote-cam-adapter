@@ -122,6 +122,32 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 * **Flux Recommendation:** Use high-quality flux like **Chip Quik SMD291** when soldering the Wii IR camera onto the PCB.
 * **Soldering Assist:** Print and use the [Soldering Alignment Jig](https://github.com/eatnooM/pixart-sensor-adapter/blob/main/inline/printables/Wii-IR-camera-solder-guideGun4IR-v7.stl) to maintain flush alignment.
 
+### PCB IR edge prep:
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center"><b>PCB Beforet</b></td>
+      <td align="center"><b>PCB After</b></td>
+      <td align="center"><b>Tool (Nail File)</b></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="pics/pcb_before.jpeg" width="160" alt="JST PH 2.0 Front View">
+      </td>
+      <td align="center" valign="middle">
+        <img src="pics/pcb_after.jpeg" width="160" alt="JST PH 2.0 Back View">
+      </td>
+      <td align="center" valign="middle">
+        <img src="pics/ds_nail_file.png" width="160" alt="JST PH 2.0 Back View">
+      </td>      
+  </table>
+</p>
+
+* Filing the PCB edge removes rough manufacturing burrs so the Wii IR camera sits flat and its 8 pins align directly with the solder pads.
+* To do this safely, lightly file the inner cutout edge until it is smooth and straight, stopping just before you touch the dark copper solder pads. Because PCB material (FR4) contains woven fiberglass, wear nitrile gloves and a dust mask to prevent skin irritation and avoid breathing in fine glass dust. Finally, wipe the board and your work area with a damp cloth or isopropyl alcohol instead of blowing the dust away.
+* A cheap dollar-store nail file works well for this task because its thin profile fits easily into the small PCB cutout and its fine grit gently levels the fiberglass edge without damaging the nearby solder pads.
+
 ---
 
 ## ✅ Validation and Testing:
