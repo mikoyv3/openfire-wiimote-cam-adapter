@@ -133,10 +133,10 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <img src="pics/pcb_before.jpeg" width="200" alt="JST PH 2.0 Front View">
+        <img src="pics/pcb_before.jpeg" width="240" alt="JST PH 2.0 Front View">
       </td>
       <td align="center" valign="middle">
-        <img src="pics/pcb_after.jpeg" width="200" alt="JST PH 2.0 Back View">
+        <img src="pics/pcb_after.jpeg" width="240" alt="JST PH 2.0 Back View">
       </td>
       <td align="center" valign="middle">
         <img src="pics/ds_nail_file.png" width="200" alt="JST PH 2.0 Back View">
