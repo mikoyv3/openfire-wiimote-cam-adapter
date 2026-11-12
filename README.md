@@ -110,7 +110,7 @@ This hardware design is an evolutionary community effort built upon the foundati
 
 ---
 
-## 📐 3D Shell Compatibility & Enclosure Notes
+## 📐 Preparation, Assembly, 3D Shell Compatibility & Enclosure Notes
 
 Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slikvik55's Lightgun3DParts Repository](https://github.com/slikvik55/Lightgun3DParts/tree/main/WiiCamEnclosure):
 * 📥 **Main Shell:** [WiiCamEnclosure Barrel STL](https://github.com/slikvik55/Lightgun3DParts/blob/main/WiiCamEnclosure/Barrel.stl)
