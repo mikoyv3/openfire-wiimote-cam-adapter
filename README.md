@@ -133,19 +133,19 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <img src="pics/pcb_before.jpeg" width="160" alt="JST PH 2.0 Front View">
+        <img src="pics/pcb_before.jpeg" width="200" alt="JST PH 2.0 Front View">
       </td>
       <td align="center" valign="middle">
-        <img src="pics/pcb_after.jpeg" width="160" alt="JST PH 2.0 Back View">
+        <img src="pics/pcb_after.jpeg" width="200" alt="JST PH 2.0 Back View">
       </td>
       <td align="center" valign="middle">
-        <img src="pics/ds_nail_file.png" width="160" alt="JST PH 2.0 Back View">
+        <img src="pics/ds_nail_file.png" width="200" alt="JST PH 2.0 Back View">
       </td>      
   </table>
 </p>
 
 * Filing the PCB edge removes rough manufacturing burrs so the Wii IR camera sits flat and its 8 pins align directly with the solder pads.
-* To do this safely, lightly file the inner cutout edge until it is smooth and straight, stopping just before you touch the dark copper solder pads. Because PCB material (FR4) contains woven fiberglass, wear gloves and a dust mask to prevent skin irritation and avoid breathing in fine glass dust. Finally, wipe the board and your work area with a damp cloth or isopropyl alcohol instead of blowing the dust away.
+* To do this safely, lightly file the inner cutout edge until it is smooth and straight, stopping just before you touch the dark copper solder pads. Because PCB material contains woven fiberglass, wear gloves and a dust mask to prevent skin irritation and avoid breathing in fine glass dust. Finally, wipe the board and your work area with a damp cloth or isopropyl alcohol instead of blowing the dust away.
 * A cheap dollar-store nail file works well for this task because its thin profile fits easily into the small PCB cutout and its fine grit gently levels the fiberglass edge without damaging the nearby solder pads.
 
 ---
