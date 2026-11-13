@@ -51,7 +51,7 @@
     <tr>
       <td align="center" valign="middle"><b>Design Purpose & Deviation Notes</b></td>
       <td align="center" valign="middle" colspan="3" align="left">
-     Discussions from OpenFIRE Discord suggested that adding a decoupling ceramic capacitor on the camera module's power rail is best practice to stabilize voltage delivery and minimize potential noise. There is an active documentation change request to update the official OpenFIRE schematic guidelines accordingly (<a href="https://github.com/TeamOpenFIRE/OpenFIRE-App/issues/120" target="_blank">Issue #120</a>). In the meantime, this layout provides that feature as an option.
+     Discussions from OpenFIRE Discord suggested that adding a decoupling ceramic capacitor on the camera module's power rail is best practice to stabilize voltage delivery and minimize potential noise. There is an active documentation change request to update the official OpenFIRE schematic guidelines accordingly (<a href="https://github.com/TeamOpenFIRE/OpenFIRE-App/issues/120" target="_blank">Issue #120</a>). In the meantime, this layout provides that feature as an option. Keep in mind that the official one has no reported issues and is perfectly fine. 
       </td>
     </tr>
     <tr>
