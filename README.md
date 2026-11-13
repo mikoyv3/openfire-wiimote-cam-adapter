@@ -144,7 +144,7 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
   </table>
 </p>
 
-* **⚠️🚨❗ <ins>To do this safely</ins> ❗🚨⚠️** Because PCB material contains woven fiberglass, wear gloves and an N95 face mask to prevent skin irritation and avoid breathing in fine glass dust. Afterward, wipe the board and your work area with a damp cloth or isopropyl alcohol instead of blowing the dust away. Finally, throw away the used nail file, face mask, and cleaning cloth.
+* **⚠️🚨❗ <ins>To do this safely</ins> ❗🚨⚠️** Because PCB material contains woven fiberglass, wear gloves, safety glasses, and an N95 face mask to prevent skin and eye irritation and avoid breathing in fine glass dust. Afterward, wipe the board and your work area with a damp cloth or isopropyl alcohol instead of blowing the dust away. Finally, throw away the used nail file, face mask, and cleaning cloth.
 * Filing the PCB edge removes rough manufacturing burrs so the Wii IR camera sits flat and its 8 pins align directly with the solder pads.
 * Lightly file the inner cutout edge until it is smooth and straight, stopping just before you touch the dark copper solder pads. 
 * A cheap dollar-store nail file works well for this task because its thin profile fits easily into the small PCB cutout and its fine grit gently levels the fiberglass edge without damaging the nearby solder pads.
