@@ -115,7 +115,7 @@ This hardware design is an evolutionary community effort built upon the foundati
 Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slikvik55's Lightgun3DParts Repository](https://github.com/slikvik55/Lightgun3DParts/tree/main/WiiCamEnclosure):
 * 📥 **Main Shell:** [WiiCamEnclosure Barrel STL](https://github.com/slikvik55/Lightgun3DParts/blob/main/WiiCamEnclosure/Barrel.stl)
 * 📥 **Internal Mount:** [Camera Holder (JST) STL](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/blob/main/stl/CamHolder-jst.stl)
-* 📥 **Assembly Tool:** [Soldering Alignment Jig STL from **Gzus348**](https://github.com/eatnooM/pixart-sensor-adapter/blob/main/inline/printables/Wii-IR-camera-solder-guideGun4IR-v7.stl)
+* 📥 **Assembly Tool:** [Soldering Alignment Jig (JST) STL from **Gzus348**](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/blob/main/stl/JIG-JST.stl)
 
 ### Assembly & Soldering Tips:
 * **Wii IR Plastic Placement:** Remember to salvage the original dark translucent **Wii IR plastic screen** from the front of the donor Wii remote shell. It needs to be **cut to fit** cleanly inside the [Camera Holder](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/blob/main/stl/CamHolder-jst.stl) piece during assembly. This lens acts as an essential optical filter that blocks ambient room light, ensuring the camera tracks only pure infrared lightbar signals.
