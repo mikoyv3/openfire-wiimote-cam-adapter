@@ -113,7 +113,7 @@ This hardware design is an evolutionary community effort built upon the foundati
 ## 📐 Preparation, Assembly, 3D Shell Compatibility & Enclosure Notes
 
 Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slikvik55's Lightgun3DParts Repository](https://github.com/slikvik55/Lightgun3DParts/tree/main/WiiCamEnclosure):
-* 📥 **Main Shell:** [WiiCamEnclosure Barrel STL](https://github.com/slikvik55/Lightgun3DParts/blob/main/WiiCamEnclosure/Barrel.stl)
+* 📥 **Main Shell:** [WiiCamEnclosure Barrel STL](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/blob/main/stl/Barrel.stl)
 * 📥 **Internal Mount:** [Camera Holder (JST) STL](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/blob/main/stl/CamHolder-jst.stl)
 * 📥 **Assembly Tool:** [Soldering Alignment Jig (JST) STL from **Gzus348**](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/blob/main/stl/JIG-JST.stl)
 
