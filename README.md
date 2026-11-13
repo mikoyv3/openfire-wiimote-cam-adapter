@@ -120,7 +120,7 @@ Tailored for **RetroMidget's Wiimote Camera Enclosure** using assets from [@slik
 ### Assembly & Soldering Tips:
 * **Wii IR Plastic Placement:** Remember to salvage the original dark translucent **Wii IR plastic screen** from the front of the donor Wii remote shell. It needs to be **cut to fit** cleanly inside the [Camera Holder](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/blob/main/stl/CamHolder-jst.stl) piece during assembly. This lens acts as an essential optical filter that blocks ambient room light, ensuring the camera tracks only pure infrared lightbar signals.
 * **Flux Recommendation:** Use high-quality flux like **Chip Quik SMD291** when soldering the Wii IR camera onto the PCB.
-* **Soldering Assist:** Print and use the [Soldering Alignment Jig](https://github.com/eatnooM/pixart-sensor-adapter/blob/main/inline/printables/Wii-IR-camera-solder-guideGun4IR-v7.stl) to maintain flush alignment.
+* **Soldering Assist:** Print and use the [Soldering Alignment Jig](https://github.com/mikoyv3/openfire-wiimote-cam-adapter/blob/main/stl/JIG-JST.stl) to maintain flush alignment.
 
 ### PCB IR edge prep:
 
